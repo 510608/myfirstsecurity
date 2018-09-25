@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/List_of_file_signatures
+
+
+FF D8 FF DB
+
+FF D8 FF E0 00 10 4A 46 49 46 00 01         JPG
+
+FF D8 FF E1 ?? ?? 45 78 69 66 00 00
